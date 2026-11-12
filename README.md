@@ -2,13 +2,6 @@
 
 A simple Python experiment to understand how `while True` works.
 
-## Code
-
-x = 1
-while True:
-    print(x)
-    x = x + 1
-
 ## How It Works
 
 - x starts from 1
